@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="760" viewBox="0 0 1100 760">
+<rect width="100%" height="100%" fill="#FAFAF7"/>
+<text x="60" y="66" font-size="34" font-family="Microsoft JhengHei, Arial" font-weight="700" fill="#1F2937">過去五年 TAOP 筆試考題主題趨勢</text>
+<text x="60" y="100" font-size="17" font-family="Microsoft JhengHei, Arial" fill="#475569">2022-2026 官方筆試題，共 500 題；同一題可多重分類。</text>
+<text x="60" y="157" font-size="20" font-family="Microsoft JhengHei, Arial" fill="#111827">再生/黏膜牙齦手術</text>
+<rect x="330" y="130" width="640" height="42" rx="6" fill="#D97706"/>
+<text x="986" y="158" font-size="20" font-family="Arial" fill="#111827">157</text>
+<text x="60" y="219" font-size="20" font-family="Microsoft JhengHei, Arial" fill="#111827">植體周圍疾病</text>
+<rect x="330" y="192" width="595" height="42" rx="6" fill="#4C6FFF"/>
+<text x="941" y="220" font-size="20" font-family="Arial" fill="#111827">146</text>
+<text x="60" y="281" font-size="20" font-family="Microsoft JhengHei, Arial" fill="#111827">微生物/宿主反應</text>
+<rect x="330" y="254" width="428" height="42" rx="6" fill="#0F766E"/>
+<text x="774" y="282" font-size="20" font-family="Arial" fill="#111827">105</text>
+<text x="60" y="343" font-size="20" font-family="Microsoft JhengHei, Arial" fill="#111827">分類/治療指引</text>
+<rect x="330" y="316" width="354" height="42" rx="6" fill="#2C7A7B"/>
+<text x="700" y="344" font-size="20" font-family="Arial" fill="#111827">87</text>
+<text x="60" y="405" font-size="20" font-family="Microsoft JhengHei, Arial" fill="#111827">診斷影像/數位工具</text>
+<rect x="330" y="378" width="334" height="42" rx="6" fill="#475569"/>
+<text x="680" y="406" font-size="20" font-family="Arial" fill="#111827">82</text>
+<text x="60" y="467" font-size="20" font-family="Microsoft JhengHei, Arial" fill="#111827">SPT/風險/預後</text>
+<rect x="330" y="440" width="317" height="42" rx="6" fill="#7C3AED"/>
+<text x="663" y="468" font-size="20" font-family="Arial" fill="#111827">78</text>
+<text x="60" y="529" font-size="20" font-family="Microsoft JhengHei, Arial" fill="#111827">全身疾病/危險因子</text>
+<rect x="330" y="502" width="260" height="42" rx="6" fill="#DC2626"/>
+<text x="606" y="530" font-size="20" font-family="Arial" fill="#111827">64</text>
+<text x="60" y="591" font-size="20" font-family="Microsoft JhengHei, Arial" fill="#111827">非手術/抗菌輔助</text>
+<rect x="330" y="564" width="171" height="42" rx="6" fill="#059669"/>
+<text x="517" y="592" font-size="20" font-family="Arial" fill="#111827">42</text>
+<text x="60" y="720" font-size="14" font-family="Microsoft JhengHei, Arial" fill="#64748B">整理日期：2026-05-10；題目可多重分類，文獻依 PubMed metadata 與題名/摘要關鍵詞分類。</text>
+</svg>
