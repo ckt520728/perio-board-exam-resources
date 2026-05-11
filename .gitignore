@@ -1,0 +1,14 @@
+# Keep member-only or copyright-sensitive source material out of the public repo.
+*.pdf
+extracted_text/
+raw_pubmed*/
+taop_cookies.txt
+taop_login*.html
+taop_download_index_logged.html
+taop_captcha.png
+
+# Local/editor noise
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc

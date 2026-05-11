@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780">
+<rect width="100%" height="100%" fill="#FBFBF8"/>
+<text x="60" y="66" font-size="34" font-family="Microsoft JhengHei, Arial" font-weight="700" fill="#1F2937">考題 x JCP x JOP 交叉熱點</text>
+<text x="60" y="100" font-size="17" font-family="Microsoft JhengHei, Arial" fill="#475569">用來決定模擬考與讀書優先順序。</text>
+<rect x="700" y="58" width="20" height="20" fill="#0F766E" rx="4"/>
+<text x="728" y="75" font-size="16" font-family="Microsoft JhengHei, Arial">JCP</text>
+<rect x="835" y="58" width="20" height="20" fill="#4C6FFF" rx="4"/>
+<text x="863" y="75" font-size="16" font-family="Microsoft JhengHei, Arial">JOP</text>
+<rect x="970" y="58" width="20" height="20" fill="#D97706" rx="4"/>
+<text x="998" y="75" font-size="16" font-family="Microsoft JhengHei, Arial">考題</text>
+<line x1="130" y1="670.0" x2="1120" y2="670.0" stroke="#E5E7EB"/>
+<text x="72" y="675.0" font-size="14" font-family="Arial" fill="#64748B">0</text>
+<line x1="130" y1="537.5" x2="1120" y2="537.5" stroke="#E5E7EB"/>
+<text x="72" y="542.5" font-size="14" font-family="Arial" fill="#64748B">111</text>
+<line x1="130" y1="405.0" x2="1120" y2="405.0" stroke="#E5E7EB"/>
+<text x="72" y="410.0" font-size="14" font-family="Arial" fill="#64748B">222</text>
+<line x1="130" y1="272.5" x2="1120" y2="272.5" stroke="#E5E7EB"/>
+<text x="72" y="277.5" font-size="14" font-family="Arial" fill="#64748B">334</text>
+<line x1="130" y1="140.0" x2="1120" y2="140.0" stroke="#E5E7EB"/>
+<text x="72" y="145.0" font-size="14" font-family="Arial" fill="#64748B">445</text>
+<rect x="149.8" y="566.4" width="24.8" height="103.6" fill="#D97706" rx="5"/>
+<text x="162.2" y="559.4" font-size="12" text-anchor="middle" font-family="Arial" fill="#111827">87</text>
+<rect x="179.6" y="515.2" width="24.8" height="154.8" fill="#0F766E" rx="5"/>
+<text x="191.9" y="508.2" font-size="12" text-anchor="middle" font-family="Arial" fill="#111827">130</text>
+<rect x="209.3" y="519.9" width="24.8" height="150.1" fill="#4C6FFF" rx="5"/>
+<text x="221.7" y="512.9" font-size="12" text-anchor="middle" font-family="Arial" fill="#111827">126</text>
+<text x="191.875" y="718" font-size="15" text-anchor="middle" font-family="Microsoft JhengHei, Arial" fill="#111827">分類/治療指引</text>
+<rect x="273.6" y="496.1" width="24.8" height="173.9" fill="#D97706" rx="5"/>
+<text x="285.9" y="489.1" font-size="12" text-anchor="middle" font-family="Arial" fill="#111827">146</text>
+<rect x="303.3" y="512.8" width="24.8" height="157.2" fill="#0F766E" rx="5"/>
+<text x="315.7" y="505.8" font-size="12" text-anchor="middle" font-family="Arial" fill="#111827">132</text>
+<rect x="333.1" y="541.4" width="24.8" height="128.6" fill="#4C6FFF" rx="5"/>
+<text x="345.4" y="534.4" font-size="12" text-anchor="middle" font-family="Arial" fill="#111827">108</text>
+<text x="315.625" y="718" font-size="15" text-anchor="middle" font-family="Microsoft JhengHei, Arial" fill="#111827">植體周圍疾病</text>
+<rect x="397.3" y="483.0" width="24.8" height="187.0" fill="#D97706" rx="5"/>
+<text x="409.7" y="476.0" font-size="12" text-anchor="middle" font-family="Arial" fill="#111827">157</text>
+<rect x="427.1" y="523.5" width="24.8" height="146.5" fill="#0F766E" rx="5"/>
+<text x="439.4" y="516.5" font-size="12" text-anchor="middle" font-family="Arial" fill="#111827">123</text>
+<rect x="456.8" y="503.3" width="24.8" height="166.7" fill="#4C6FFF" rx="5"/>
+<text x="469.2" y="496.3" font-size="12" text-anchor="middle" font-family="Arial" fill="#111827">140</text>
+<text x="439.375" y="718" font-size="15" text-anchor="middle" font-family="Microsoft JhengHei, Arial" fill="#111827">再生/黏膜牙齦手術</text>
+<rect x="521.0" y="620.0" width="24.8" height="50.0" fill="#D97706" rx="5"/>
+<text x="533.4" y="613.0" font-size="12" text-anchor="middle" font-family="Arial" fill="#111827">42</text>
+<rect x="550.8" y="534.2" width="24.8" height="135.8" fill="#0F766E" rx="5"/>
+<text x="563.2" y="527.2" font-size="12" text-anchor="middle" font-family="Arial" fill="#111827">114</text>
+<rect x="580.5" y="544.9" width="24.8" height="125.1" fill="#4C6FFF" rx="5"/>
+<text x="592.9" y="537.9" font-size="12" text-anchor="middle" font-family="Arial" fill="#111827">105</text>
+<text x="563.125" y="718" font-size="15" text-anchor="middle" font-family="Microsoft JhengHei, Arial" fill="#111827">非手術/抗菌輔助</text>
+<rect x="644.8" y="577.1" width="24.8" height="92.9" fill="#D97706" rx="5"/>
+<text x="657.2" y="570.1" font-size="12" text-anchor="middle" font-family="Arial" fill="#111827">78</text>
+<rect x="674.5" y="542.6" width="24.8" height="127.4" fill="#0F766E" rx="5"/>
+<text x="686.9" y="535.6" font-size="12" text-anchor="middle" font-family="Arial" fill="#111827">107</text>
+<rect x="704.3" y="555.7" width="24.8" height="114.3" fill="#4C6FFF" rx="5"/>
+<text x="716.7" y="548.7" font-size="12" text-anchor="middle" font-family="Arial" fill="#111827">96</text>
+<text x="686.875" y="718" font-size="15" text-anchor="middle" font-family="Microsoft JhengHei, Arial" fill="#111827">SPT/風險/預後</text>
+<rect x="768.5" y="593.8" width="24.8" height="76.2" fill="#D97706" rx="5"/>
+<text x="780.9" y="586.8" font-size="12" text-anchor="middle" font-family="Arial" fill="#111827">64</text>
+<rect x="798.3" y="478.2" width="24.8" height="191.8" fill="#0F766E" rx="5"/>
+<text x="810.7" y="471.2" font-size="12" text-anchor="middle" font-family="Arial" fill="#111827">161</text>
+<rect x="828.0" y="483.0" width="24.8" height="187.0" fill="#4C6FFF" rx="5"/>
+<text x="840.4" y="476.0" font-size="12" text-anchor="middle" font-family="Arial" fill="#111827">157</text>
+<text x="810.625" y="718" font-size="15" text-anchor="middle" font-family="Microsoft JhengHei, Arial" fill="#111827">全身疾病/危險因子</text>
+<rect x="892.3" y="544.9" width="24.8" height="125.1" fill="#D97706" rx="5"/>
+<text x="904.7" y="537.9" font-size="12" text-anchor="middle" font-family="Arial" fill="#111827">105</text>
+<rect x="922.0" y="469.9" width="24.8" height="200.1" fill="#0F766E" rx="5"/>
+<text x="934.4" y="462.9" font-size="12" text-anchor="middle" font-family="Arial" fill="#111827">168</text>
+<rect x="951.8" y="469.9" width="24.8" height="200.1" fill="#4C6FFF" rx="5"/>
+<text x="964.2" y="462.9" font-size="12" text-anchor="middle" font-family="Arial" fill="#111827">168</text>
+<text x="934.375" y="718" font-size="15" text-anchor="middle" font-family="Microsoft JhengHei, Arial" fill="#111827">微生物/宿主反應</text>
+<rect x="1016.0" y="572.3" width="24.8" height="97.7" fill="#D97706" rx="5"/>
+<text x="1028.4" y="565.3" font-size="12" text-anchor="middle" font-family="Arial" fill="#111827">82</text>
+<rect x="1045.8" y="141.2" width="24.8" height="528.8" fill="#0F766E" rx="5"/>
+<text x="1058.2" y="134.2" font-size="12" text-anchor="middle" font-family="Arial" fill="#111827">444</text>
+<rect x="1075.5" y="140.0" width="24.8" height="530.0" fill="#4C6FFF" rx="5"/>
+<text x="1087.9" y="133.0" font-size="12" text-anchor="middle" font-family="Arial" fill="#111827">445</text>
+<text x="1058.125" y="718" font-size="15" text-anchor="middle" font-family="Microsoft JhengHei, Arial" fill="#111827">診斷影像/數位工具</text>
+<text x="60" y="750" font-size="14" font-family="Microsoft JhengHei, Arial" fill="#64748B">整理日期：2026-05-10；JCP/JOP 為 PubMed 2023-01-01 至 2026-05-10。</text>
+</svg>
