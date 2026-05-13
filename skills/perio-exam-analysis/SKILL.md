@@ -1,5 +1,5 @@
 ---
-name: 牙周病專科考試試題分析技能
+name: perio-exam-analysis
 description: Use when analyzing Taiwan periodontal specialist exam questions, collecting public past papers, reviewing Journal of Clinical Periodontology literature, extracting exam trends, creating Traditional Chinese review notes, simulated questions, study strategy, or infographic outputs for periodontal board preparation.
 ---
 
